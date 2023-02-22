@@ -1,4 +1,4 @@
-# note-taker
+# note Taker
 
 ## User Story
 AS A small business owner
