@@ -1,4 +1,4 @@
-# note Taker
+# Note Taker
 
 ## User Story
 AS A small business owner
@@ -25,4 +25,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 https://griffins-notes.herokuapp.com/
 
 ## Screenshot
-![griffin-woodson github io_note-taker]()
+![griffin-woodson github io_note-taker](https://github.com/griffin-woodson/note-taker/blob/8a6c727395bd4cc3bb8d220b1c47237198175ebb/public/assets/note-taker--screenshot.png)
